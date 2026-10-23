@@ -20,3 +20,7 @@ https://www.google.com/logos/fnbx/solitaire/audio/shuffle.ogg
 ```
 
 I do not own any of the assets used including the Google Logos or Trademarks.
+
+---
+
+A fork of [fluchive/solitaire](https://github.com/fluchive/solitaire)
